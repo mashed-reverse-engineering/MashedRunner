@@ -3,7 +3,7 @@
 ![Screenshot](https://raw.githubusercontent.com/SciLor/MashedRunner/master/SciLorsMashedRunnerv4.jpg)
 
 ## Sidenode
-[Mashed Fully Loaded Trainer](https://github.com/SciLor/MashedTrainer)
+[Mashed Fully Loaded Trainer](https://github.com/mashed-reverse-engineering/MashedTrainer)
 
 ## ReadMe
 
